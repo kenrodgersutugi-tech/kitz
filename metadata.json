@@ -1,0 +1,6 @@
+{
+  "name": "kitszn.ke",
+  "description": "Shop affordable football jerseys in Kenya from kitszn.ke. Browse new drops, retro kits and training jerseys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
